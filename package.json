@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "xterm": "3.0.1"
+    "xterm": "^3.0.2"
   },
   "devDependencies": {
     "@types/node": "^9.3.0",
